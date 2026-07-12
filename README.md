@@ -1,7 +1,6 @@
 # Hi there, I'm Muhamad Firman Hakim 👋
-### 🎓 Software Engineering Student @ Universiti Malaya
 
-I am a Software Engineering student interested in full-stack development, mobile applications, and AI-driven software solutions. This GitHub profile showcases projects from university coursework, hackathons, and personal development.
+I am a Software Engineering student at Universiti Malaya interested in full-stack development, mobile applications, and AI-driven software solutions. This GitHub profile showcases projects from university coursework, hackathons, and personal projects.
 
 ---
 
