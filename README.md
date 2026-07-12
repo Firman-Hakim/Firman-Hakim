@@ -1,8 +1,7 @@
 # Hi there, I'm Muhamad Firman Hakim 👋
 ### 🎓 Software Engineering Student @ Universiti Malaya
 
-I specialize in full-stack software development. I am interested in web and mobile app development. This Github profile showcases the projects i have done as part of university courseworks, hackathons and personal projects.
-
+I am a Software Engineering student interested in full-stack development, mobile applications, and AI-driven software solutions. This GitHub profile showcases projects from university coursework, hackathons, and personal development.
 ---
 
 ### 💻 Tech Stack & Tools:
@@ -12,10 +11,8 @@ I specialize in full-stack software development. I am interested in web and mobi
 
 1. AI Spending Decision Assistant
   - AI powered spending assistant developed during UMHackathon 2026.
-  - Built the dashboard and prediction module for the assistant, implementing budget analytics, spending forecasts, risk indicators, and smart alerts using expense data to help users manage their finances.
+  - Developed dashboard analytics, spending predictions, risk indicators, and smart alerts to help users manage finances.
 
 2. Discord Moderator Bot
-  - An AI-powered moderation bot that detects toxic message and uses RAG to generate context-aware responses.
-  - Developed the RAG pipeline and integrated an LLM to generate context-aware responses.
-  - Implemented slash commands to simplify bot interaction.
-  - Configured bot permissions to enable moderation actions.
+  - AI-powered Discord moderation bot using RAG and LLM integration for context-aware responses.
+  - Developed the RAG pipeline, slash commands, and bot permissions for improved moderation functionality.
