@@ -16,3 +16,7 @@ I am a Software Engineering student at Universiti Malaya interested in full-stac
 2. Discord Moderator Bot
   - AI-powered Discord moderation bot using RAG and LLM integration for context-aware responses.
   - Developed the RAG pipeline, slash commands, and bot permissions for improved moderation functionality.
+
+3. Sort 'Em Android Application
+  - Native Android educational application featuring drag-and-drop gameplay across multiple sorting challenges.
+  - Developed real-time game mechanics, touch interactions, collision detection, multi-level progression, and responsive user interfaces using Java and Android SDK.
