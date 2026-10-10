@@ -6,3 +6,4 @@ I expect to learn a lot about how modern software is maintained and improved aft
 - **Fun fact**: I have a cat.
 - **Course expectations**: To learn more about post-development workflows as well as familiarize myself with collaborative workflows in preparation for the industry.
 
+(cat.jpg)
